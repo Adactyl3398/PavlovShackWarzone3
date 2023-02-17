@@ -1,2 +1,3 @@
 # PavlovShackWarzone3
-A simple solo battle-royale map for the game Pavlov Shack Beta. RC1
+Warzone 3.0 made by Adactyl#4492
+Map for RC1 (unreal 4.27)
