@@ -4,6 +4,15 @@ Map for RC1 (unreal 4.27)
 
 `reaI#1264` is now the active dev working on the project.
 
+# Balance Table changes  
+```diff
+M4
+-1 damage (20->19)
+Detective SMG
+-8 damage (20->12)
+-Added damage falloff (multiplier 1->0.65, distance->2000)
+```
+
 # Patch Notes
 ### Version 610 (Current)
 Fixed a bug where kills would remove health instead of giving  
