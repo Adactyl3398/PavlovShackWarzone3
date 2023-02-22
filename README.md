@@ -9,12 +9,15 @@ Map for RC1 (unreal 4.27)
 M4
 -1 damage (20->19)
 Detective SMG
--8 damage (20->12)
 -Added damage falloff (multiplier 1->0.65, distance->2000)
 ```
 
 # Patch Notes
-### Version 610 (Current)
+## Version 613
+Fixed jumping(?)
+## Versions 612/611  
+Map bug fixes
+### Version 610
 Fixed a bug where kills would remove health instead of giving  
 ### Version 609
 Removed bunnyhopping speed (it's coming back!)  
