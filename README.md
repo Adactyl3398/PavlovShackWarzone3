@@ -13,6 +13,11 @@ Detective SMG
 ```
 
 # Patch Notes 
+## Version 804 
+Changed lighting  
+Added roof deterrent
+## Version 803  
+Added sky text
 ## Version 802  
 Toned down jump speed
 ## Version 801  
