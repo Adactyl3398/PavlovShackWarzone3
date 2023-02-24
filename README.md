@@ -12,8 +12,10 @@ Detective SMG
 -Added damage falloff (multiplier 1->0.65, distance->2000)
 ```
 
-# Patch Notes  
-## Version 800 (current)  
+# Patch Notes 
+## Version 801  
+Made jumping better (again) (again)
+## Version 800 
 Maybe for real actually fixed jumping this time  
 Made water better  
 ## 614-799 were all testing versions
