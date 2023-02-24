@@ -13,6 +13,8 @@ Detective SMG
 ```
 
 # Patch Notes 
+## Version 802  
+Toned down jump speed
 ## Version 801  
 Made jumping better (again) (again)
 ## Version 800 
