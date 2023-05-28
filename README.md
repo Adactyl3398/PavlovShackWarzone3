@@ -13,6 +13,9 @@ Detective SMG
 ```
 
 # Patch Notes 
+## Version 1069 (latest)
+A **LOT** of shit happened. Biggest thing is precomputed visibility. Changed license to GNU AGPL V3 (if you're hosting this or a modified version on a server, you have to provide the map files on request.)
+Contact me for the project files.
 ## Version 804 
 Changed lighting  
 Added roof deterrent
